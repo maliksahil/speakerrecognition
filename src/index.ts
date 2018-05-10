@@ -41,19 +41,16 @@ const obamaIdentificationProfile = '7043adc1-f9ef-4b47-8fa9-2b898c348869';
 //     console.log('1.wav enrolled');
 // });
 
-identification.identifySpeaker(
-    'obama_input.wav', 
-    sahilIdentificationProfile + ',' + obamaIdentificationProfile).then(
-        result => {
-    console.log(
-        `Identified profile is: 
-            ${result.processingResult.identifiedProfileId} 
-            and the confidence is: 
-            ${result.processingResult.confidence}`)
-});
-
-// Obama audio - https://www.pond5.com/collections/2216894
-
+// identification.identifySpeaker(
+//     'obama_input.wav', 
+//     sahilIdentificationProfile + ',' + obamaIdentificationProfile).then(
+//         result => {
+//     console.log(
+//         `Identified profile is: 
+//             ${result.processingResult.identifiedProfileId} 
+//             and the confidence is: 
+//             ${result.processingResult.confidence}`)
+// });
 
 
 // identification.deleteIdentificationProfile(obamaIdentificationProfile);
