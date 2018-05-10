@@ -1,0 +1,24 @@
+{
+  "name": "baseproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "@types/request": "2.0.9",
+    "@types/node": "8.5.7",
+    "@types/vkbeautify": "0.99.2",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2",
+    "tslint": "^5.8.0",
+    "vkbeautify": "^0.99.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
