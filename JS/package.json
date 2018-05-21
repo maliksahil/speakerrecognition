@@ -10,12 +10,12 @@
     "request": "^2.83.0"
   },
   "devDependencies": {
-    "@types/request": "2.0.9",
+    "@types/request": "^2.47.0",
     "@types/node": "8.5.7",
-    "@types/vkbeautify": "0.99.2",
-    "ts-node": "^4.1.0",
-    "typescript": "^2.6.2",
-    "tslint": "^5.8.0",
+    "@types/vkbeautify": "^0.99.2",
+    "ts-node": "^6.0.3",
+    "typescript": "^2.8.3",
+    "tslint": "^5.10.0",
     "vkbeautify": "^0.99.3"
   },
   "keywords": [],
