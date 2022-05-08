@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>525931524214-jej99hkaa88dpps7gshqct4coc3n3m2q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.525931524214-jej99hkaa88dpps7gshqct4coc3n3m2q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>525931524214-lnlrauqgi97htlshe2i675issr1l6bhc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcXW5phAJDp5JPvWjfDpHxlNsICXh6HmQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>525931524214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.nureapp</string>
+	<key>PROJECT_ID</key>
+	<string>nure-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nure-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:525931524214:ios:08180f36c8b1e3b11f6f57</string>
+</dict>
+</plist>
